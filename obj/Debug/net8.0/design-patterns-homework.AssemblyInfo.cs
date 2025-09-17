@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("design-patterns-homework")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a9cea43bd9f91aa6f507075044c19260892d050")]
 [assembly: System.Reflection.AssemblyProductAttribute("design-patterns-homework")]
 [assembly: System.Reflection.AssemblyTitleAttribute("design-patterns-homework")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
