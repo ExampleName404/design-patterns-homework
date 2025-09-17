@@ -1,0 +1,14 @@
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\bin\Debug\net8.0\design-patterns-homework.exe
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\bin\Debug\net8.0\design-patterns-homework.deps.json
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\bin\Debug\net8.0\design-patterns-homework.runtimeconfig.json
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\bin\Debug\net8.0\design-patterns-homework.dll
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\bin\Debug\net8.0\design-patterns-homework.pdb
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.AssemblyInfoInputs.cache
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.AssemblyInfo.cs
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.csproj.CoreCompileInputs.cache
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.dll
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\refint\design-patterns-homework.dll
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.pdb
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\design-patterns-homework.genruntimeconfig.cache
+C:\Users\Helltaker\Documents\Visual Studio Code\design-patterns-homework\obj\Debug\net8.0\ref\design-patterns-homework.dll
